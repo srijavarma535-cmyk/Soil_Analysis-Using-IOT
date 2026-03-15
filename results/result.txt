@@ -1,0 +1,9 @@
+Soil Analysis & Micronutrient Classification Results
+==================================================
+
+Dataset processed successfully!
+
+Total records: 2200
+Training samples: 1760
+Testing samples: 440
+
